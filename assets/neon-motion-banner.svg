@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Akshara — neon dark developer portfolio</title>
+<desc id="desc">Animated purple and magenta neon waves, orbiting particles and glowing developer title on a dark background.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050510"/><stop offset=".52" stop-color="#160b2b"/><stop offset="1" stop-color="#090d20"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".48" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#a855f7" stop-opacity=".28"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="13"/></filter>
+  <filter id="shine"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+<ellipse cx="210" cy="80" rx="300" ry="180" fill="url(#glow)" filter="url(#blur)"><animate attributeName="cx" values="210;350;210" dur="12s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1000" cy="280" rx="300" ry="180" fill="url(#glow)" filter="url(#blur)"><animate attributeName="cy" values="280;170;280" dur="10s" repeatCount="indefinite"/></ellipse>
+<g fill="none" stroke="url(#neon)" opacity=".55">
+  <path d="M-40 250 C180 90 280 390 500 220 S850 80 1240 220" stroke-width="2"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M-40 250 C180 90 280 390 500 220 S850 80 1240 220;M-40 210 C180 360 280 60 500 240 S850 360 1240 160;M-40 250 C180 90 280 390 500 220 S850 80 1240 220"/></path>
+  <path d="M-30 285 C190 150 330 390 560 250 S920 120 1230 270" stroke-width="1.4" opacity=".65"><animate attributeName="d" dur="13s" repeatCount="indefinite" values="M-30 285 C190 150 330 390 560 250 S920 120 1230 270;M-30 250 C190 360 330 90 560 280 S920 340 1230 220;M-30 285 C190 150 330 390 560 250 S920 120 1230 270"/></path>
+</g>
+<g fill="none" stroke="#c084fc" opacity=".38">
+ <ellipse cx="600" cy="165" rx="470" ry="115" stroke-dasharray="5 12" transform="rotate(-8 600 165)"><animateTransform attributeName="transform" type="rotate" from="-8 600 165" to="352 600 165" dur="55s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="600" cy="165" rx="390" ry="145" stroke-dasharray="2 16"><animateTransform attributeName="transform" type="rotate" from="0 600 165" to="-360 600 165" dur="70s" repeatCount="indefinite"/></ellipse>
+</g>
+<g fill="#e9d5ff" filter="url(#shine)">
+ <circle cx="150" cy="75" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="1030" cy="70" r="2.5"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="940" cy="245" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="270" cy="265" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+ <circle cx="750" cy="55" r="1.8"><animate attributeName="opacity" values=".1;1;.1" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" text-anchor="middle">
+ <text x="600" y="137" font-size="17" letter-spacing="8" fill="#c4b5fd">FULL-STACK  /  SECURITY  /  AI</text>
+ <text x="600" y="205" font-size="62" font-weight="800" fill="#f5d0fe" filter="url(#shine)">AKSHARA S.</text>
+ <text x="600" y="245" font-size="17" letter-spacing="2" fill="#cbd5e1">building thoughtful things for a complex world</text>
+</g>
+<rect x="2" y="2" width="1196" height="326" rx="24" fill="none" stroke="url(#neon)" stroke-opacity=".65" stroke-width="2"/>
+<rect x="0" y="0" width="1200" height="3" fill="url(#neon)" opacity=".9"><animate attributeName="y" values="0;327;0" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
