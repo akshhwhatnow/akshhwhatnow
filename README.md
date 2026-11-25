@@ -128,32 +128,32 @@
   <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" />
 </p>
 
-<h2 align="center">✦ MY DIGITAL TOOLBELT ✦</h2>
-<p align="center"><i>Tools are just instruments. The fun is in what you make with them.</i></p>
+<h2 align="center">✦ THE INVENTORY SCREEN ✦</h2>
+<p align="center"><i>Not a skill list. Just the stuff I keep reaching for.</i></p>
 
 <div align="center">
 
-**I SPEAK**
-<br/>
-![](https://skillicons.dev/icons?i=py,go,js,c,cpp,html,css&theme=dark&perline=7)
+| 🪄 THE SPELLBOOK | 🧩 THE BUILDING BLOCKS |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=py,go,js,c,cpp&theme=dark&perline=5) | ![](https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind&theme=dark&perline=5) |
+| **Languages I summon** | **Things I make with them** |
 
-**I BUILD WITH**
-<br/>
-![](https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind,figma&theme=dark&perline=6)
-
-**I STORE, SHIP & OBSERVE WITH**
-<br/>
-![](https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions,prometheus,grafana&theme=dark&perline=8)
-
-**I'M AT HOME IN**
-<br/>
-![](https://skillicons.dev/icons?i=linux,windows,bash&theme=dark&perline=3)
+| 🧰 THE WORKSHOP | 🛰️ THE CONTROL ROOM |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=postgres,mysql,docker,git,figma&theme=dark&perline=5) | ![](https://skillicons.dev/icons?i=github,githubactions,prometheus,grafana,linux&theme=dark&perline=5) |
+| **Store, ship, sketch** | **Deploy, observe, repeat** |
 
 </div>
 
 <p align="center">
-  <code>REST APIs</code> · <code>JWT / OAuth</code> · <code>RBAC</code> · <code>Window Functions</code> · <code>Recursive CTEs</code> · <code>Triggers</code> · <code>RAG</code> · <code>LLM Evaluation</code> · <code>Hybrid Search</code> · <code>Data Analytics</code> · <code>Secure Coding</code> · <code>Supply-Chain Security</code> · <code>pytest</code> · <code>Tally</code> · <code>Zoho Books</code> · <code>Excel</code> · <code>PowerPoint</code>
+  <b>UNLOCKED ABILITIES</b><br/>
+  <code>SQL window functions</code> <code>Recursive CTEs</code> <code>Triggers</code>
+  <code>JWT / OAuth</code> <code>RBAC</code> <code>Hybrid search</code>
+  <code>RAG evaluation</code> <code>pytest</code> <code>Secure coding</code>
+  <code>Supply-chain security</code> <code>Data analytics</code>
 </p>
+
+<p align="center"><i>Current side quest: making Go concurrency and RAG evaluation behave. No promises.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" />
@@ -219,16 +219,25 @@
 
 ✍️ **Debates & creative writing**
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3800&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=%22Make+it+work%2C+make+it+right%2C+make+it+secure.%22;Have+a+wild+idea%3F+I+want+to+hear+it." alt="Animated sign-off" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=E879F9&center=true&vCenter=true&width=760&lines=%22It+is+what+it+is.+Until+it+isn't.%22;%22Anyway%2C+back+to+the+side+quest.%22;%22No+plot%2C+just+character+development.%22;%22I+did+ not+plan+this.+It+just+compiled.%22;%22Low+battery%2C+high+ambition.%22" alt="Rotating nonchalant footer quotes" />
+</p>
 
-<h2>✦ GOT A GOOD RABBIT HOLE? ✦</h2>
+<h2 align="center">✦ BEFORE YOU SCROLL INTO THE VOID ✦</h2>
+<p align="center"><i>Got an interesting problem? A weird idea? A suspiciously good playlist?</i></p>
 
-<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-aksharaachus317%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<div align="center">
+
+<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/COME_SAY_HI-aksharaachus317%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/FIND_ME_ON-GITHUB-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/LOITER_ON-GITHUB-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:be185d&height=150&section=footer" width="100%" alt="Animated neon footer" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/nonchalant-footer.svg" width="100%" alt="Animated nonchalant portfolio sign-off" />
+</p>
+
+<p align="center"><sub>made with curiosity, questionable sleep hours & an unreasonable number of tabs open.</sub></p>
