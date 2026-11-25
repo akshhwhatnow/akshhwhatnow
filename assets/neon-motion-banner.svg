@@ -27,9 +27,10 @@
  <circle cx="750" cy="55" r="1.8"><animate attributeName="opacity" values=".1;1;.1" dur="2.2s" repeatCount="indefinite"/></circle>
 </g>
 <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" text-anchor="middle">
- <text x="600" y="137" font-size="17" letter-spacing="8" fill="#c4b5fd">FULL-STACK  /  SECURITY  /  AI</text>
- <text x="600" y="205" font-size="62" font-weight="800" fill="#f5d0fe" filter="url(#shine)">AKSHARA S.</text>
- <text x="600" y="245" font-size="17" letter-spacing="2" fill="#cbd5e1">building thoughtful things for a complex world</text>
+ <text x="600" y="137" font-size="17" letter-spacing="8" fill="#c4b5fd">FULL-STACK CYBERSECURITY  /  AI ENGINEER</text>
+ <rect x="300" y="153" width="600" height="68" rx="34" fill="#f3e8ff" opacity=".94"><animate attributeName="opacity" values=".82;.98;.82" dur="4s" repeatCount="indefinite"/></rect>
+ <text x="600" y="204" font-size="62" font-weight="900" fill="#171329">AKSHARA</text>
+ <text x="600" y="260" font-size="17" letter-spacing="2" fill="#e9d5ff">low-key building things. high-key curious.</text>
 </g>
 <rect x="2" y="2" width="1196" height="326" rx="24" fill="none" stroke="url(#neon)" stroke-opacity=".65" stroke-width="2"/>
 <rect x="0" y="0" width="1200" height="3" fill="url(#neon)" opacity=".9"><animate attributeName="y" values="0;327;0" dur="7s" repeatCount="indefinite"/></rect>
