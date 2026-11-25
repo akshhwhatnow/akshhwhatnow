@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#211238"/></linearGradient><radialGradient id="glow"><stop stop-color="#34d399" stop-opacity=".22"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient></defs>
+<rect width="480" height="300" rx="22" fill="url(#bg)"/><circle cx="240" cy="165" r="180" fill="url(#glow)"/>
+<g opacity=".14" stroke="#94a3b8"><path d="M0 50H480M0 100H480M0 150H480M0 200H480M0 250H480M80 0V300M160 0V300M240 0V300M320 0V300M400 0V300"/></g>
+<g><rect x='125' y='90' width='230' height='175' rx='18' fill='none' stroke='#34d399' stroke-width='4'/><path d='M160 225v-40h28v40M210 225v-75h28v75M260 225v-105h28v105' fill='none' stroke='#67e8f9' stroke-width='8'/><path d='M155 125h150' stroke='#34d399' stroke-width='4' stroke-linecap='round'/></g>
+<g font-family="Arial,sans-serif"><text x="30" y="42" fill="#34d399" font-size="12" letter-spacing="3">AKSHARA / PROJECT FILE</text><text x="30" y="278" fill="#f8fafc" font-size="21" font-weight="700" letter-spacing="2">BUDGET TRACKER</text><text x="450" y="278" text-anchor="end" fill="#94a3b8" font-size="10" letter-spacing="1.5">MONEY, MADE VISIBLE</text></g>
+<circle cx="450" cy="35" r="4" fill="#34d399"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
