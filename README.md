@@ -222,7 +222,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=E879F9&center=true&vCenter=true&width=760&lines=%22It+is+what+it+is.+Until+it+isn't.%22;%22Anyway%2C+back+to+the+side+quest.%22;%22No+plot%2C+just+character+development.%22;%22I+did+ not+plan+this.+It+just+compiled.%22;%22Low+battery%2C+high+ambition.%22" alt="Rotating nonchalant footer quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=E879F9&center=true&vCenter=true&width=760&lines=%22It+is+what+it+is.+Until+it+isn't.%22;%22Anyway%2C+back+to+the+side+quest.%22;%22No+plot%2C+just+character+development.%22;%22I+did+not+plan+this.+It+just+compiled.%22;%22Low+battery%2C+high+ambition.%22" alt="Rotating nonchalant footer quotes" />
 </p>
 
 <h2 align="center">✦ BEFORE YOU SCROLL INTO THE VOID ✦</h2>
