@@ -1,36 +1,113 @@
-<!-- CYBER LAB PROFILE -->
+<!--
+  AKSHARA S. | DEVELOPER PORTFOLIO
+  GitHub automatically selects light/dark artwork using the viewer's appearance preference.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=AKSHARA.exe&fontSize=58&color=0:080B18,45:312E81,100:06B6D4&stroke=67E8F9&strokeWidth=1&fontColor=E0F2FE" width="100%" alt="AKSHARA.exe cyber banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-dark.svg">
+  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-light.svg" width="100%" alt="Akshara S — software engineering, AI and security portfolio">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=%3E+initializing+creative+mode...;%3E+building+secure+systems;%3E+teaching+machines+new+tricks;%3E+debugging+the+universe+%F0%9F%9A%80" alt="Animated terminal introduction" />
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-06B6D4?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SECURITY%20%7C%20CODE-111827?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=0891B2&center=true&vCenter=true&width=760&lines=Full-stack+developer+%7C+Backend+engineer;Exploring+AI%2C+application+security+%26+distributed+systems;Turning+curiosity+into+working+software;Currently+building%2C+breaking+%26+learning." alt="Animated introduction">
+
+<br>
+
+<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/GitHub-akshhwhatnow-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-0E7490?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=akshhwhatnow&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
+<br>
+
+## About
+
+I'm **Akshara** — a developer interested in the craft behind useful, reliable software. I enjoy moving between backend systems, product interfaces, AI workflows and security engineering.
+
+My favourite work sits where **good engineering meets real-world problems**: protecting data, making systems observable, automating repetitive work and turning ambitious ideas into usable products.
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/01-BUILD-0E7490?style=flat-square"> | <img src="https://img.shields.io/badge/02-SECURE-6D28D9?style=flat-square"> | <img src="https://img.shields.io/badge/03-EXPLORE-334155?style=flat-square"> |
+|:---:|:---:|:---:|
+| Backend & product engineering | Application & supply-chain security | AI, RAG & intelligent systems |
+
+</div>
+
+---
+
+## Selected work
+
+A few things I've been designing, engineering and experimenting with.
+
 <table>
 <tr>
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
-### 🤖 Meet my coding companion
+### LedgerGuard
+<sub>FINTECH · FRAUD DETECTION</sub>
 
-**A tiny robot. A giant list of things to build.**
+A payment ledger built around double-entry transactions, reconciliation and SQL-powered fraud-ring detection.
 
-I'm Akshara — I turn coffee, curiosity and questionable amounts of debugging into software.
-
-Exploring the intersection of:
-- AI and intelligent systems
-- Cybersecurity and privacy
-- Backend and distributed systems
-- Full-stack product building
+**Stack** · Python / PostgreSQL / React
 
 </td>
-<td width="52%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/cyber-robot.svg" width="100%" alt="Animated robot in Akshara's cyber lab" />
+### DepGuard
+<sub>SECURITY · DEVELOPER TOOLING</sub>
+
+A GitHub-based supply-chain scanner for vulnerable dependencies, suspicious packages and actionable security recommendations.
+
+**Stack** · Python / FastAPI / React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### VaultRAG
+<sub>GENERATIVE AI · DATA PRIVACY</sub>
+
+A secure document-search experience with permission-aware retrieval, hybrid search and answers grounded in citations.
+
+**Stack** · Python / FastAPI / PostgreSQL / Next.js
+
+</td>
+<td width="50%" valign="top">
+
+### Orchestrix
+<sub>DISTRIBUTED SYSTEMS · AUTOMATION</sub>
+
+A job queue and workflow engine for task scheduling, execution tracking, retries and dependable background processing.
+
+**Stack** · Go / PostgreSQL / React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tarpit
+<sub>CYBERSECURITY · THREAT INTELLIGENCE</sub>
+
+A honeypot and monitoring project for capturing suspicious network activity, studying attacker behaviour and visualising threats.
+
+**Stack** · Python / PostgreSQL / React / ML
+
+</td>
+<td width="50%" valign="top">
+
+### Budget Tracker
+<sub>WEB DEVELOPMENT · PRODUCT DESIGN</sub>
+
+A personal-finance application for tracking income and expenses, with an interface prototyped in Figma.
+
+**Stack** · HTML / CSS / JavaScript / Figma
 
 </td>
 </tr>
@@ -38,116 +115,86 @@ Exploring the intersection of:
 
 ---
 
-<div align="center">
+## The toolkit
 
-### ◈ THE LAB // LIVE SYSTEMS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,go,js,html,css,react,nextjs,fastapi,postgres,docker,git,github,linux,figma&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,html,css,react,nextjs,fastapi,postgres,docker,git,github,linux,figma&theme=light&perline=8" alt="Languages and tools" />
+</picture>
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,react,nextjs,fastapi,postgres,docker,linux,git&theme=dark&perline=6" alt="Technology stack icons" />
-
-</div>
-
----
-
-### 🧪 Experiments in progress
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / LEDGERGUARD**
-
-FRAUD DETECTION
-
-A payment ledger that thinks twice. Double-entry transactions, reconciliation and fraud-ring detection.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-
-</td>
-<td width="50%" valign="top">
-
-**02 / DEPGUARD**
-
-SUPPLY CHAIN SECURITY
-
-Hunting vulnerable dependencies and suspicious packages before they become problems.
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-7C3AED?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / VAULTRAG**
-
-PRIVATE AI SEARCH
-
-A secure document brain: permission-aware retrieval, hybrid search and cited AI answers.
-
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**04 / ORCHESTRIX**
-
-DISTRIBUTED SYSTEMS
-
-A workflow engine for scheduling jobs, tracking execution and retrying failed tasks.
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Queues-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**05 / TARPIT**
-
-THREAT INTELLIGENCE
-
-A honeypot and monitoring playground for capturing suspicious activity and visualizing threats.
-
-<img src="https://img.shields.io/badge/Cybersecurity-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**06 / NEXT EXPERIMENT**
-
-IDEAS → PROTOTYPES
-
-Always making room for the next weird idea, useful tool or ambitious side quest.
-
-<img src="https://img.shields.io/badge/Curiosity-ON-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Compiling-7C3AED?style=flat-square" />
-
-</td>
-</tr>
-</table>
+<sub>Also exploring: REST APIs · JWT/OAuth · RBAC · RAG · LLM evaluation · pytest · GitHub Actions · Prometheus · Grafana · data analytics.</sub>
 
 ---
 
+## Beyond the code
+
+### Hackathons & challenges
+
+- **Smart India Hackathon 2026** — Decentralized identity management and privacy-preserving authentication using Zero-Knowledge Proofs.
+- **ISRO Bharatiya Antariksh Hackathon 2026** — AI/ML-based identification of tropical cloud clusters using INSAT satellite data.
+- **eMudhra Hackathon 2026** — Represented Mount Carmel University in a technology-focused hackathon.
+- **International 24-Hour Hackathon, Christ University** — *Ecocrisis Command*, a multi-agent AI concept for disaster response, agricultural protection and wildlife conservation.
+- **Yugastr IT Hackathon** — Student-centric academic notes-sharing platform.
+- **HackSphere '24** — Presented *Time Machine for Subject Exploration* at a state-level tech showcase.
+- **National Conference on Trends in Multidisciplinary Research** — Oral presentation on applications of mathematics in cybersecurity.
+
+### Certifications & professional learning
+
+<sub>Credentials and learning experiences listed from my resume.</sub>
+
+| Organisation | Certification / programme |
+|:--|:--|
+| IIT Madras | Cyber Security and Privacy |
+| Google | Foundations of Project Management |
+| Goldman Sachs | Software Engineering / IT Security job simulation |
+| Deloitte | Cybersecurity job simulation |
+| BCG | Customer churn prediction with Python and Random Forest |
+| AIG | Cybersecurity and Python-based security exercise |
+| ANZ | Cybersecurity job simulation |
+| Accenture | Social media data analytics |
+| City of Moreton Bay | HTML and CSS landing-page project |
+| Y Combinator | Logistics startup Kanban task-management project |
+
+### Education
+
+- **MCA** — Mount Carmel (Deemed to be University) · 2025–2027 · Pursuing
+- **B.Sc. Computer Science & Mathematics** — MS Ramaiah College of Arts, Science and Commerce · 2022–2025 · CGPA 8.91
+- **PUC** — K.L.E. Society's S. Nijalingappa Independent PU College · 76.5%
+- **SSLC** — Assumption English High School · 88.64%
+
+### Next-level certification goals
+
+Aspirational learning roadmap — **not claimed as completed**:
+
+- AWS Certified Developer – Associate
+- ISC2 Certified in Cybersecurity (CC)
+- GitHub Foundations
+- Microsoft Azure AI Fundamentals
+
+---
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&hide_border=true&theme=github_dark">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&hide_border=true&theme=default" alt="Most used languages">
+</picture>
+
 <div align="center">
 
-### 📡 GITHUB // TELEMETRY
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akshhwhatnow&hide_border=true&theme=github-dark-blue">
+  <img src="https://streak-stats.demolab.com?user=akshhwhatnow&hide_border=true&theme=default" width="80%" alt="GitHub contribution streak">
+</picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&hide_border=true&bg_color=080B18&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&hide_border=true&bg_color=080B18&title_color=67E8F9&text_color=CBD5E1" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=akshhwhatnow&hide_border=true&background=080B18&ring=8B5CF6&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&bg_color=080B18&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=minimal&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+</picture>
 
 </div>
 
@@ -155,14 +202,13 @@ Always making room for the next weird idea, useful tool or ambitious side quest.
 
 <div align="center">
 
-### ⌁ CONNECT TO THE LAB
+### Let's build something meaningful.
 
-<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT_EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+Open to interesting conversations, collaborations and ambitious ideas.
 
-<br/><br/>
-<sub>「 stay curious · build boldly · secure everything 」</sub>
+<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:080B18&height=100&section=footer" width="100%" alt="" />
+<sub>Made with curiosity, care and a terminal that is probably still open.</sub>
 
 </div>
