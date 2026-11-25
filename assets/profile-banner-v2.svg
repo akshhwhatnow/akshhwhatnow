@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Akshara S — animated developer profile banner</title>
+<desc id="desc">A dark animated neon banner with the name Akshara S, full-stack developer, cybersecurity and AI engineer title, flowing light trails and glowing particles.</desc>
+<defs>
+  <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050510"/><stop offset=".52" stop-color="#190b2d"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+  <linearGradient id="edge2" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <linearGradient id="name2" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"><animate attributeName="stop-color" values="#ffffff;#c4b5fd;#ffffff" dur="7s" repeatCount="indefinite"/></stop><stop offset=".52" stop-color="#e9d5ff"><animate attributeName="stop-color" values="#e9d5ff;#f0abfc;#e9d5ff" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a5f3fc"><animate attributeName="stop-color" values="#a5f3fc;#ffffff;#a5f3fc" dur="7s" repeatCount="indefinite"/></stop></linearGradient>
+  <radialGradient id="haze2"><stop stop-color="#9333ea" stop-opacity=".34"/><stop offset="1" stop-color="#9333ea" stop-opacity="0"/></radialGradient>
+  <filter id="soft2"><feGaussianBlur stdDeviation="16"/></filter>
+  <filter id="glow2"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="26" fill="url(#bg2)"/>
+<ellipse cx="250" cy="100" rx="310" ry="180" fill="url(#haze2)" filter="url(#soft2)"><animate attributeName="cx" values="250;390;250" dur="14s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="1000" cy="250" rx="300" ry="170" fill="url(#haze2)" filter="url(#soft2)"><animate attributeName="cy" values="250;155;250" dur="11s" repeatCount="indefinite"/></ellipse>
+<g fill="none" stroke="url(#edge2)">
+ <path d="M-30 240 C170 100 310 360 520 220 S900 80 1230 210" stroke-width="2" opacity=".65"><animate attributeName="d" dur="10s" repeatCount="indefinite" values="M-30 240 C170 100 310 360 520 220 S900 80 1230 210;M-30 205 C170 350 310 75 520 245 S900 340 1230 165;M-30 240 C170 100 310 360 520 220 S900 80 1230 210"/></path>
+ <path d="M-30 285 C190 160 340 365 570 260 S930 125 1230 275" stroke-width="1.3" opacity=".48"><animate attributeName="d" dur="13s" repeatCount="indefinite" values="M-30 285 C190 160 340 365 570 260 S930 125 1230 275;M-30 260 C190 355 340 120 570 285 S930 345 1230 235;M-30 285 C190 160 340 365 570 260 S930 125 1230 275"/></path>
+</g>
+<g fill="none" stroke="#c084fc" opacity=".3">
+ <ellipse cx="600" cy="165" rx="470" ry="118" stroke-dasharray="3 14" transform="rotate(-9 600 165)"><animateTransform attributeName="transform" type="rotate" from="-9 600 165" to="351 600 165" dur="65s" repeatCount="indefinite"/></ellipse>
+</g>
+<g fill="#e9d5ff" filter="url(#glow2)">
+ <circle cx="150" cy="75" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="1030" cy="70" r="2.5"><animate attributeName="opacity" values="1;.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+ <circle cx="940" cy="245" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+ <circle cx="270" cy="265" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+ <circle cx="750" cy="55" r="1.8"><animate attributeName="opacity" values=".1;1;.1" dur="2.3s" repeatCount="indefinite"/></circle>
+ <circle cx="580" cy="52" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+<g text-anchor="middle">
+ <text x="600" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.2" fill="#e9d5ff">FULL-STACK DEVELOPER  /  CYBERSECURITY  /  AI ENGINEER</text>
+ <text x="600" y="211" font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif" font-size="76" font-style="italic" font-weight="700" letter-spacing="2.5" fill="url(#name2)" filter="url(#glow2)">AKSHARA S<animate attributeName="letter-spacing" values="2.5;4.5;2.5" dur="8s" repeatCount="indefinite"/></text>
+ <path d="M420 230 Q600 240 780 230" fill="none" stroke="url(#edge2)" stroke-width="2" opacity=".9"><animate attributeName="d" values="M420 230 Q600 242 780 230;M420 230 Q600 215 780 230;M420 230 Q600 242 780 230" dur="6s" repeatCount="indefinite"/></path>
+ <text x="600" y="276" font-family="Arial, Helvetica, sans-serif" font-size="18" font-style="italic" letter-spacing="1.3" fill="#e9d5ff">chill pace. ambitious tabs. questionable sleep schedule.<animate attributeName="opacity" values=".55;1;.55" dur="5s" repeatCount="indefinite"/></text>
+</g>
+<rect x="2" y="2" width="1196" height="326" rx="24" fill="none" stroke="url(#edge2)" stroke-opacity=".75" stroke-width="2"/>
+<rect x="0" y="0" width="1200" height="3" fill="url(#edge2)"><animate attributeName="y" values="0;327;0" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
