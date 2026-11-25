@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+<title id="title">Akshara's cyber lab robot</title>
+<desc id="desc">A friendly futuristic robot floats in a neon cyber laboratory while circuit nodes pulse around it.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1B"/><stop offset="1" stop-color="#17123B"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDEBFF"/><stop offset=".45" stop-color="#8299C7"/><stop offset="1" stop-color="#35466F"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="720" height="440" rx="24" fill="url(#bg)"/>
+<g opacity=".18" stroke="#67E8F9" fill="none">
+ <path d="M0 70H140L170 100H260M720 100H610L580 130H520M0 350H120L150 320H220M720 330H610L580 300H520"/>
+ <path d="M80 0V70M640 0V90M60 440V360M660 440V350"/>
+</g>
+<g fill="#67E8F9" opacity=".7">
+ <circle cx="140" cy="100" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="580" cy="130" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+ <circle cx="150" cy="320" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="580" cy="300" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.9s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(360 218)">
+ <animateTransform attributeName="transform" type="translate" values="360 218;360 205;360 218" dur="4s" repeatCount="indefinite"/>
+ <ellipse cy="155" rx="120" ry="17" fill="#06B6D4" opacity=".13"><animate attributeName="rx" values="105;125;105" dur="4s" repeatCount="indefinite"/></ellipse>
+ <!-- antenna -->
+ <path d="M0 -117V-145" stroke="#A5B4FC" stroke-width="7" stroke-linecap="round"/>
+ <circle cy="-153" r="10" fill="#67E8F9" filter="url(#glow)"><animate attributeName="r" values="8;12;8" dur="1.4s" repeatCount="indefinite"/></circle>
+ <!-- ears -->
+ <rect x="-112" y="-66" width="22" height="58" rx="10" fill="#586B99" stroke="#A5B4FC" stroke-width="3"/>
+ <rect x="90" y="-66" width="22" height="58" rx="10" fill="#586B99" stroke="#A5B4FC" stroke-width="3"/>
+ <!-- head -->
+ <rect x="-98" y="-120" width="196" height="160" rx="48" fill="url(#metal)" stroke="#A5B4FC" stroke-width="4"/>
+ <rect x="-79" y="-99" width="158" height="112" rx="34" fill="#081426" stroke="#67E8F9" stroke-width="3"/>
+ <!-- eyes -->
+ <g fill="#67E8F9" filter="url(#glow)">
+  <ellipse cx="-39" cy="-45" rx="15" ry="20"><animate attributeName="ry" values="20;3;20" dur="4.5s" repeatCount="indefinite" keyTimes="0;.08;1"/></ellipse>
+  <ellipse cx="39" cy="-45" rx="15" ry="20"><animate attributeName="ry" values="20;3;20" dur="4.5s" repeatCount="indefinite" keyTimes="0;.08;1"/></ellipse>
+ </g>
+ <path d="M-22 -5Q0 10 22 -5" fill="none" stroke="#A5B4FC" stroke-width="4" stroke-linecap="round"/>
+ <!-- body -->
+ <rect x="-76" y="52" width="152" height="108" rx="30" fill="url(#metal)" stroke="#A5B4FC" stroke-width="4"/>
+ <rect x="-49" y="72" width="98" height="60" rx="14" fill="#0B1730" stroke="#67E8F9" stroke-width="2"/>
+ <path d="M-30 102L-12 84L4 110L24 88" fill="none" stroke="#67E8F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <!-- arms -->
+ <g stroke="#A5B4FC" stroke-width="15" stroke-linecap="round" fill="none">
+  <path d="M-78 75L-122 105"><animate attributeName="d" values="M-78 75L-122 105;M-78 75L-132 80;M-78 75L-122 105" dur="2.8s" repeatCount="indefinite"/></path>
+  <path d="M78 75L122 105"><animate attributeName="d" values="M78 75L122 105;M78 75L132 80;M78 75L122 105" dur="2.8s" repeatCount="indefinite"/></path>
+ </g>
+ <circle cx="-124" cy="105" r="12" fill="#67E8F9"/>
+ <circle cx="124" cy="105" r="12" fill="#67E8F9"/>
+</g>
+<!-- orbiting tech glyphs -->
+<g font-family="monospace" font-size="18" fill="#A5B4FC" filter="url(#glow)">
+ <text x="150" y="185">01 <animate attributeName="y" values="185;170;185" dur="3s" repeatCount="indefinite"/></text>
+ <text x="530" y="210">AI <animate attributeName="y" values="210;195;210" dur="2.6s" repeatCount="indefinite"/></text>
+ <text x="180" y="275">&lt;/&gt; <animate attributeName="y" values="275;290;275" dur="3.4s" repeatCount="indefinite"/></text>
+ <text x="515" y="285">{ }</text>
+</g>
+<g fill="none" stroke="#6366F1" stroke-width="1.5" opacity=".8">
+ <circle cx="360" cy="218" r="175" stroke-dasharray="5 12"><animateTransform attributeName="transform" type="rotate" from="0 360 218" to="360 360 218" dur="35s" repeatCount="indefinite"/></circle>
+ <circle cx="360" cy="218" r="195" stroke-dasharray="2 18"><animateTransform attributeName="transform" type="rotate" from="360 360 218" to="0 360 218" dur="45s" repeatCount="indefinite"/></circle>
+</g>
+<text x="360" y="410" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="4" fill="#67E8F9">AKSHARA'S CYBER LAB // SYSTEM ONLINE</text>
+</svg>
