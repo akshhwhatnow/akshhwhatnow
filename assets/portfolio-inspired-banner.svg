@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Akshara S — portfolio-inspired developer banner</title>
+<desc id="desc">A charcoal and slate portfolio-style banner with warm peach typography, a friendly animated robot sidekick, and subtle floating details.</desc>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#1b2424"/>
+    <stop offset=".55" stop-color="#202b30"/>
+    <stop offset="1" stop-color="#172022"/>
+  </linearGradient>
+  <radialGradient id="blueGlow">
+    <stop stop-color="#536b9d" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#536b9d" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="warmName" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#f28b52"/>
+    <stop offset=".52" stop-color="#f3b18c"/>
+    <stop offset="1" stop-color="#f1d5c8"/>
+  </linearGradient>
+  <linearGradient id="botShell" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#e4eaf0"/>
+    <stop offset="1" stop-color="#bfcbd7"/>
+  </linearGradient>
+  <filter id="softShadow" x="-30%" y="-30%" width="160%" height="170%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="blur"/>
+    <feOffset dy="8" result="offset"/>
+    <feComponentTransfer><feFuncA type="linear" slope=".22"/></feComponentTransfer>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="420" rx="26" fill="url(#surface)"/>
+<ellipse cx="580" cy="170" rx="530" ry="300" fill="url(#blueGlow)"/>
+<ellipse cx="1050" cy="60" rx="180" ry="130" fill="url(#blueGlow)" opacity=".5"/>
+
+<!-- quiet moving ambient light -->
+<path d="M0 330 C240 270 390 390 640 325 S980 265 1200 320" fill="none" stroke="#71869b" stroke-width="1.2" opacity=".18">
+  <animate attributeName="d" values="M0 330 C240 270 390 390 640 325 S980 265 1200 320;M0 350 C240 300 390 350 640 345 S980 300 1200 290;M0 330 C240 270 390 390 640 325 S980 265 1200 320" dur="14s" repeatCount="indefinite"/>
+</path>
+
+<!-- left-side introduction -->
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="86" y="88" font-size="19" font-weight="600" fill="#9aa8aa" letter-spacing=".4">STUDENT DEVELOPER</text>
+  <text x="82" y="190" font-size="76" font-weight="800" fill="#f3f5f4" letter-spacing="-3">Hi, I'm</text>
+  <text x="82" y="285" font-size="104" font-weight="900" fill="url(#warmName)" letter-spacing="-4">Akshara S</text>
+  <path d="M88 307 H570" stroke="#e9a17c" stroke-width="3" stroke-linecap="round" opacity=".8">
+    <animate attributeName="x2" values="390;570;390" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <text x="88" y="350" font-size="19" font-weight="700" fill="#e8edef" letter-spacing="1.1">FULL-STACK DEVELOPER  /  CYBERSECURITY  /  AI ENGINEER</text>
+  <text x="88" y="384" font-size="17" fill="#aab7b9" font-style="italic">quietly building things. occasionally breaking them first.</text>
+</g>
+
+<!-- small animated status light -->
+<g>
+  <circle cx="88" cy="48" r="5" fill="#f4a77e">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="103" y="53" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#aab7b9" letter-spacing="2">ONLINE(ISH)</text>
+</g>
+
+<!-- robot sidekick, based on the portfolio's playful visual language -->
+<g transform="translate(820 58)" filter="url(#softShadow)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" repeatCount="indefinite"/>
+    <!-- speech bubble -->
+    <rect x="175" y="5" width="180" height="68" rx="16" fill="#eef1f1"/>
+    <path d="M220 72 L236 86 L246 72" fill="#eef1f1"/>
+    <text x="195" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#182326">Hi! I'm Akshara's</text>
+    <text x="195" y="53" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#182326">sidekick.</text>
+
+    <!-- antenna -->
+    <path d="M260 112 V84" stroke="#9aa8b5" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="260" cy="78" r="10" fill="#f2ad7d">
+      <animate attributeName="r" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ears -->
+    <rect x="56" y="185" width="24" height="68" rx="12" fill="#7088b9"/>
+    <rect x="356" y="185" width="24" height="68" rx="12" fill="#7088b9"/>
+
+    <!-- head -->
+    <rect x="78" y="112" width="280" height="190" rx="58" fill="url(#botShell)"/>
+    <rect x="108" y="150" width="220" height="112" rx="40" fill="#111d25"/>
+    <circle cx="164" cy="204" r="17" fill="#69dce6">
+      <animate attributeName="r" values="17;15;17" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="272" cy="204" r="17" fill="#69dce6">
+      <animate attributeName="r" values="17;15;17" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M174 237 Q218 270 262 237" fill="none" stroke="#69dce6" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- neck and body -->
+    <rect x="196" y="300" width="46" height="24" fill="#8d9eaa"/>
+    <rect x="98" y="324" width="240" height="88" rx="38" fill="url(#botShell)"/>
+    <rect x="138" y="346" width="160" height="50" rx="22" fill="#111d25"/>
+    <text x="218" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#69dce6">AS</text>
+    <rect x="160" y="405" width="14" height="7" rx="2" fill="#f28b52"/>
+    <rect x="188" y="405" width="14" height="7" rx="2" fill="#f28b52"/>
+    <rect x="216" y="405" width="14" height="7" rx="2" fill="#f28b52"/>
+    <rect x="244" y="405" width="14" height="7" rx="2" fill="#f28b52"/>
+  </g>
+</g>
+
+<!-- understated floating skill tags -->
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#d9e1e3">
+  <g opacity=".88">
+    <rect x="786" y="218" width="66" height="34" rx="17" fill="#263337" stroke="#405054"/>
+    <text x="819" y="240" text-anchor="middle">SQL</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.2s" repeatCount="indefinite"/>
+  </g>
+  <g opacity=".88">
+    <rect x="1110" y="286" width="70" height="34" rx="17" fill="#263337" stroke="#405054"/>
+    <text x="1145" y="308" text-anchor="middle">JAVA</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="4.8s" repeatCount="indefinite"/>
+  </g>
+</g>
+
+<rect x="1.5" y="1.5" width="1197" height="417" rx="25" fill="none" stroke="#71818a" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M1180 0 V45" stroke="#dce4e5" stroke-width="2" opacity=".8"/>
+<circle cx="1180" cy="50" r="7" fill="#f3c78e"><animate attributeName="opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
