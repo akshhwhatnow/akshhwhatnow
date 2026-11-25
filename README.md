@@ -186,18 +186,13 @@
 </p>
 
 <h2 align="center">✦ THE COMMIT TRAIL ✦</h2>
+<p align="center"><i>A little motion for all the little things that get shipped.</i></p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=560&lines=small+commits%2C+big+curiosity...;the+graph+is+part+of+the+story." alt="Animated activity subtitle" />
+  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/animated-commit-trail.svg" width="100%" alt="Animated neon commit trail" />
 </p>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=akshhwhatnow&theme=tokyonight&hide_border=true&background=0d1117" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=react-dark&hide_border=true&bg_color=0d1117&color=e879f9&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="100%" />
-<img src="https://github-profile-trophy.vercel.app/?username=akshhwhatnow&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 **THE CONTRIBUTION CREATURE**
 <br/>
