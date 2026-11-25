@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset=".55" stop-color="#EEF2FF"/><stop offset="1" stop-color="#E0F7FA"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0891B2"/><stop offset="1" stop-color="#6D28D9"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<rect width="1200" height="440" rx="28" fill="url(#b)"/>
+<g opacity=".23" stroke="#64748B" fill="none"><path d="M0 90H220L270 140H400M1200 320H1000L940 260H830M60 440V330L130 260H220M1070 0V90L1000 160H900"/><path d="M0 210H150L190 250H290M1200 120H1090L1040 170H950"/></g>
+<circle cx="1000" cy="220" r="140" fill="#8B5CF6" opacity=".13" filter="url(#g)"/>
+<g transform="translate(940 210)">
+ <circle r="120" fill="none" stroke="#0891B2" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="5 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/></circle>
+ <circle r="92" fill="none" stroke="#7C3AED" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="2 9"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="32s" repeatCount="indefinite"/></circle>
+ <path d="M-35 0L-10 -25L15 8L42 -20" stroke="url(#a)" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="-35" cy="0" r="7" fill="#0891B2"/><circle cx="42" cy="-20" r="7" fill="#7C3AED"/>
+</g>
+<text x="90" y="150" fill="#6D28D9" font-family="monospace" font-size="17" letter-spacing="5">SOFTWARE ENGINEERING  /  AI  /  SECURITY</text>
+<text x="84" y="238" fill="#111827" font-family="Arial,sans-serif" font-size="76" font-weight="700">Akshara S.</text>
+<text x="90" y="290" fill="#334155" font-family="Arial,sans-serif" font-size="25">Building thoughtful software for a smarter, safer world.</text>
+<rect x="90" y="335" width="220" height="3" rx="2" fill="url(#a)"/>
+<text x="90" y="375" fill="#0E7490" font-family="monospace" font-size="15" letter-spacing="3">DESIGN  ·  BUILD  ·  SECURE  ·  REPEAT</text>
+</svg>
