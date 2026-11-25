@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=E879F9&center=true&vCenter=true&width=820&lines=I+build+things+that+think%2C+protect+%26+scale.;Security+%C3%97+systems+%C3%97+AI.;Curiosity+is+the+最+important+dependency.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=E879F9&center=true&vCenter=true&width=820&lines=I+build+things+that+think%2C+protect+%26+scale.;Security+%C3%97+systems+%C3%97+AI.;Curiosity+is+the+most+important+dependency.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=akshhwhatnow&label=CURIOUS+VISITORS&color=a855f7&style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/github/followers/akshhwhatnow?style=for-the-badge&color=ec4899&labelColor=0d1117&logo=github&label=BUILDER+SQUAD" />
