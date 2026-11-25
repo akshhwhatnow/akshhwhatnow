@@ -1,214 +1,238 @@
-<!--
-  AKSHARA S. | DEVELOPER PORTFOLIO
-  GitHub automatically selects light/dark artwork using the viewer's appearance preference.
--->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:3b0764,100:be185d&height=240&section=header&text=Hey%2C%20I'm%20Akshara%20%F0%9F%91%8B&fontSize=52&fontColor=f5d0fe&animation=twinkling&fontAlignY=38&desc=I%20build%20things%20that%20are%20secure%2C%20smart%20%26%20a%20little%20bit%20pretty&descAlignY=60&descSize=17&descColor=c084fc" width="100%" alt="header" />
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-dark.svg">
-  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-light.svg" width="100%" alt="Akshara S — software engineering, AI and security portfolio">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=E879F9&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+full-stack+%7C+security+%7C+AI+builder;%24+currently+%E2%86%92+catching+fraud+with+SQL+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F;%24+hackathons+%E2%86%92+yes%2C+I+love+the+chaos+%E2%9A%A1;%24+side+quest+%E2%86%92+photography+%26+good+books+%F0%9F%93%B8;%24+coffee+%E2%86%92+loading...)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=0891B2&center=true&vCenter=true&width=760&lines=Full-stack+developer+%7C+Backend+engineer;Exploring+AI%2C+application+security+%26+distributed+systems;Turning+curiosity+into+working+software;Currently+building%2C+breaking+%26+learning." alt="Animated introduction">
-
-<br>
-
-<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/GitHub-akshhwhatnow-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-0E7490?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=akshhwhatnow&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
+![Views](https://komarev.com/ghpvc/?username=akshhwhatnow&label=Visitors&color=a855f7&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/akshhwhatnow?style=for-the-badge&color=ec4899&labelColor=0d1117&logo=github)
+![Location](https://img.shields.io/badge/Bengaluru-India-c084fc?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=white)
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## About
+## 💬 Let's talk
 
-I'm **Akshara** — a developer interested in the craft behind useful, reliable software. I enjoy moving between backend systems, product interfaces, AI workflows and security engineering.
+Hi! I like building software that does something *useful*, and breaking things (ethically) to see how they hold up. Most of my projects sit where **security, databases and AI** overlap: catching fraud rings with SQL, scanning dependencies for sketchy packages, or making an AI show its sources instead of just sounding confident.
 
-My favourite work sits where **good engineering meets real-world problems**: protecting data, making systems observable, automating repetitive work and turning ambitious ideas into usable products.
+Outside of code you'll find me taking photos, reading, volunteering, or sketching UI ideas in Figma at an unreasonable hour. I also once made a short film that came 2nd at an inter-college fest, so yes, I do have range 🎬
+
+```js
+const akshara = {
+  currentlyBuilding: "LedgerGuard 💳, a payment ledger that hunts fraud",
+  currentlyLearning: ["Go concurrency", "RAG evaluation", "supply-chain security"],
+  askMeAbout: ["PostgreSQL tricks", "hackathon survival", "honeypots", "RAG with citations"],
+  funFact: "I won track medals before I ever won a hackathon 🏃‍♀️",
+  lookingFor: "interesting problems and people to build them with 🤝",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🧰 My Toolbox
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/01-BUILD-0E7490?style=flat-square"> | <img src="https://img.shields.io/badge/02-SECURE-6D28D9?style=flat-square"> | <img src="https://img.shields.io/badge/03-EXPLORE-334155?style=flat-square"> |
-|:---:|:---:|:---:|
-| Backend & product engineering | Application & supply-chain security | AI, RAG & intelligent systems |
+**Languages**
+
+![](https://skillicons.dev/icons?i=py,go,js,c,cpp,html,css&theme=dark&perline=7)
+
+**Frameworks & Frontend**
+
+![](https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind,figma&theme=dark&perline=6)
+
+**Data & Databases**
+
+![](https://skillicons.dev/icons?i=postgres,mysql&theme=dark&perline=6)
+
+**DevOps & Monitoring**
+
+![](https://skillicons.dev/icons?i=docker,git,github,githubactions,prometheus,grafana&theme=dark&perline=6)
+
+**Systems**
+
+![](https://skillicons.dev/icons?i=linux,windows,bash&theme=dark&perline=6)
 
 </div>
 
----
+<div align="center">
 
-## Selected work
+`REST APIs` · `JWT / OAuth` · `RBAC` · `Window Functions` · `Recursive CTEs` · `Triggers` · `RAG` · `LLM Evaluation` · `Hybrid Search` · `Data Analytics` · `Secure Coding` · `Supply-Chain Security` · `pytest` · `Tally` · `Zoho Books` · `Excel` · `PowerPoint`
 
-A few things I've been designing, engineering and experimenting with.
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🚀 Things I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### LedgerGuard
-<sub>FINTECH · FRAUD DETECTION</sub>
+### 💳 LedgerGuard
+**Where money moves and fraud gets caught**
 
-A payment ledger built around double-entry transactions, reconciliation and SQL-powered fraud-ring detection.
+A payment ledger with double-entry transactions, reconciliation and SQL-based fraud ring detection.
 
-**Stack** · Python / PostgreSQL / React
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-</td>
-<td width="50%" valign="top">
-
-### DepGuard
-<sub>SECURITY · DEVELOPER TOOLING</sub>
-
-A GitHub-based supply-chain scanner for vulnerable dependencies, suspicious packages and actionable security recommendations.
-
-**Stack** · Python / FastAPI / React
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### VaultRAG
-<sub>GENERATIVE AI · DATA PRIVACY</sub>
-
-A secure document-search experience with permission-aware retrieval, hybrid search and answers grounded in citations.
-
-**Stack** · Python / FastAPI / PostgreSQL / Next.js
+[🔗 Repository](https://github.com/akshhwhatnow/LedgerGuard)
 
 </td>
 <td width="50%" valign="top">
 
-### Orchestrix
-<sub>DISTRIBUTED SYSTEMS · AUTOMATION</sub>
+### 📦 DepGuard
+**A bouncer for your dependencies**
 
-A job queue and workflow engine for task scheduling, execution tracking, retries and dependable background processing.
+Scans GitHub repos for vulnerable or suspicious packages and suggests automated fixes.
 
-**Stack** · Go / PostgreSQL / React
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[🔗 Repository](https://github.com/akshhwhatnow/DepGuard)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Tarpit
-<sub>CYBERSECURITY · THREAT INTELLIGENCE</sub>
+### 🔐 VaultRAG
+**AI search that shows its receipts**
 
-A honeypot and monitoring project for capturing suspicious network activity, studying attacker behaviour and visualising threats.
+Permission-aware document search with hybrid retrieval and answers backed by citations.
 
-**Stack** · Python / PostgreSQL / React / ML
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+[🔗 Repository](https://github.com/akshhwhatnow/VaultRAG)
 
 </td>
 <td width="50%" valign="top">
 
-### Budget Tracker
-<sub>WEB DEVELOPMENT · PRODUCT DESIGN</sub>
+### ⚙️ Orchestrix
+**A job queue that doesn't give up**
 
-A personal-finance application for tracking income and expenses, with an interface prototyped in Figma.
+Distributed workflow engine with scheduling, automatic retries and job tracking, written in Go.
 
-**Stack** · HTML / CSS / JavaScript / Figma
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[🔗 Repository](https://github.com/akshhwhatnow/Orchestrix)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍯 Tarpit
+**A honeypot that studies its visitors**
+
+Captures suspicious network activity, analyses attacker behaviour with ML and visualises the threats.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[🔗 Repository](https://github.com/akshhwhatnow/Tarpit)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Budget Tracker
+**Where my first real UI began**
+
+Real-time income and expense tracking, prototyped in Figma before a line of code.
+
+![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+[🔗 Repository](https://github.com/akshhwhatnow/budget-tracker)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## The toolkit
+## ⚡ Hackathon Log
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,go,js,html,css,react,nextjs,fastapi,postgres,docker,git,github,linux,figma&theme=dark&perline=8">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,html,css,react,nextjs,fastapi,postgres,docker,git,github,linux,figma&theme=light&perline=8" alt="Languages and tools" />
-</picture>
+| | Event | The idea |
+|:-:|---|---|
+| 🌍 | **International 24-Hour Hackathon, Christ University** | **EcoCrisis Command**: multi-agent AI for compound disaster response, crop protection and wildlife conservation |
+| 🆔 | **Smart India Hackathon 2026** | Decentralized identity with zero-knowledge proofs, so you can prove who you are without revealing everything |
+| 🛰️ | **ISRO Bharatiya Antariksh Hackathon 2026** | AI/ML to spot tropical cloud clusters from half-hourly INSAT satellite data |
+| 🔏 | **eMudhra Hackathon 2026** | Represented Mount Carmel on a technology-for-impact problem |
+| 📚 | **Yugastr IT Hackathon** | A one-stop platform for sharing and finding academic notes |
+| 💡 | **HackSphere '24** | Pitched "Time Machine for Subject Exploration" |
+| 🎤 | **National Conference on Multidisciplinary Research** | Talk: *Applications of Mathematics in Cybersecurity* |
+| 🎬 | **Intercollegiate IT Fest 2023** | 🥈 2nd place, Short Film Making |
 
-<sub>Also exploring: REST APIs · JWT/OAuth · RBAC · RAG · LLM evaluation · pytest · GitHub Actions · Prometheus · Grafana · data analytics.</sub>
+## 📜 Certifications & professional learning
 
----
+<details>
+<summary><b>🏅 Certifications & learning experiences (click to open)</b></summary>
 
-## Beyond the code
+<br/>
 
-### Hackathons & challenges
+| Cert | What I did | When |
+|---|---|---|
+| **Y Combinator** | Built a Kanban task system for a logistics startup with a Node.js backend and SQL-driven product insights | Nov 2026 |
+| **IIT Madras** | Cyber Security and Privacy | Jul–Oct 2026 |
+| **Google** | Foundations of Project Management | Sep 2026 |
+| **Goldman Sachs** | Assessed IT security, cracked weak passwords, proposed fixes | Feb 2025 |
+| **Deloitte** | Analysed web logs during a simulated breach investigation | Feb 2025 |
+| **BCG** | Churn prediction with a random forest (85% accuracy) | Jan 2025 |
+| **AIG** | CISA vulnerability research and Python brute-force decryption | Dec 2024 |
+| **City of Moreton Bay** | Planned a site and built an HTML/CSS landing page | Dec 2024 |
+| **ANZ** | Flagged suspicious emails and inspected packet captures | Dec 2024 |
+| **Accenture** | Social media trend analysis, presented in PowerPoint | Nov 2024 |
 
-- **Smart India Hackathon 2026** — Decentralized identity management and privacy-preserving authentication using Zero-Knowledge Proofs.
-- **ISRO Bharatiya Antariksh Hackathon 2026** — AI/ML-based identification of tropical cloud clusters using INSAT satellite data.
-- **eMudhra Hackathon 2026** — Represented Mount Carmel University in a technology-focused hackathon.
-- **International 24-Hour Hackathon, Christ University** — *Ecocrisis Command*, a multi-agent AI concept for disaster response, agricultural protection and wildlife conservation.
-- **Yugastr IT Hackathon** — Student-centric academic notes-sharing platform.
-- **HackSphere '24** — Presented *Time Machine for Subject Exploration* at a state-level tech showcase.
-- **National Conference on Trends in Multidisciplinary Research** — Oral presentation on applications of mathematics in cybersecurity.
+</details>
 
-### Certifications & professional learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<sub>Credentials and learning experiences listed from my resume.</sub>
-
-| Organisation | Certification / programme |
-|:--|:--|
-| IIT Madras | Cyber Security and Privacy |
-| Google | Foundations of Project Management |
-| Goldman Sachs | Software Engineering / IT Security job simulation |
-| Deloitte | Cybersecurity job simulation |
-| BCG | Customer churn prediction with Python and Random Forest |
-| AIG | Cybersecurity and Python-based security exercise |
-| ANZ | Cybersecurity job simulation |
-| Accenture | Social media data analytics |
-| City of Moreton Bay | HTML and CSS landing-page project |
-| Y Combinator | Logistics startup Kanban task-management project |
-
-### Education
-
-- **MCA** — Mount Carmel (Deemed to be University) · 2025–2027 · Pursuing
-- **B.Sc. Computer Science & Mathematics** — MS Ramaiah College of Arts, Science and Commerce · 2022–2025 · CGPA 8.91
-- **PUC** — K.L.E. Society's S. Nijalingappa Independent PU College · 76.5%
-- **SSLC** — Assumption English High School · 88.64%
-
-### Next-level certification goals
-
-Aspirational learning roadmap — **not claimed as completed**:
-
-- AWS Certified Developer – Associate
-- ISC2 Certified in Cybersecurity (CC)
-- GitHub Foundations
-- Microsoft Azure AI Fundamentals
-
----
-
-## GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&hide_border=true&theme=github_dark">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&hide_border=true&theme=default" alt="Most used languages">
-</picture>
+## 📊 Stats & Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akshhwhatnow&hide_border=true&theme=github-dark-blue">
-  <img src="https://streak-stats.demolab.com?user=akshhwhatnow&hide_border=true&theme=default" width="80%" alt="GitHub contribution streak">
-</picture>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=akshhwhatnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshhwhatnow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=github-compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=minimal&hide_border=true" width="100%" alt="GitHub contribution activity graph">
-</picture>
+<img src="https://streak-stats.demolab.com?user=akshhwhatnow&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhwhatnow&theme=react-dark&hide_border=true&bg_color=0d1117&color=e879f9&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshhwhatnow&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+### 🐍 The snake is hungry
+
+<img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 🌙 Off the Clock
+
+📸 Photography &nbsp;·&nbsp; 📖 Reading &nbsp;·&nbsp; 🤝 Volunteering &nbsp;·&nbsp; 🎨 UI/UX design &nbsp;·&nbsp; 🎬 Short films &nbsp;·&nbsp; 🏃‍♀️ Track events &nbsp;·&nbsp; ✍️ Debates & creative writing
 
 <div align="center">
 
-### Let's build something meaningful.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=%22Make+it+work%2C+make+it+right%2C+make+it+secure.%22;Got+an+idea%3F+Let%E2%80%99s+build+it+together." alt="quote" />
 
-Open to interesting conversations, collaborations and ambitious ideas.
+## 📫 Say hi
 
-<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-<a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<sub>Made with curiosity, care and a terminal that is probably still open.</sub>
+[![Email](https://img.shields.io/badge/Email-aksharaachus317@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aksharaachus317@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:be185d&height=120&section=footer" width="100%" alt="footer" />
