@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:3b0764,100:be185d&height=240&section=header&text=Hey%2C%20I'm%20Akshara%20%F0%9F%91%8B&fontSize=52&fontColor=f5d0fe&animation=twinkling&fontAlignY=38&desc=I%20build%20things%20that%20are%20secure%2C%20smart%20%26%20a%20little%20bit%20pretty&descAlignY=60&descSize=17&descColor=c084fc" width="100%" alt="header" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-banner.svg" width="100%" alt="Akshara — animated neon developer portfolio" /></p>
 
 <div align="center">
 
@@ -10,9 +10,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## 💬 Let's talk
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=650&color=C084FC&center=true&vCenter=true&width=620&lines=%3E+initializing+developer+profile...;%3E+loading+curiosity...;%3E+systems+online.+let%27s+build." alt="Animated terminal intro" /></p>
 
 Hi! I like building software that does something *useful*, and breaking things (ethically) to see how they hold up. Most of my projects sit where **security, databases and AI** overlap: catching fraud rings with SQL, scanning dependencies for sketchy packages, or making an AI show its sources instead of just sounding confident.
 
@@ -28,7 +30,7 @@ const akshara = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## 🧰 My Toolbox
 
@@ -62,9 +64,11 @@ const akshara = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## 🚀 Things I've Built
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=700&color=E879F9&center=true&vCenter=true&width=580&lines=Ideas+%E2%86%92+experiments+%E2%86%92+working+software;Six+projects.+Many+late-night+commits." alt="Animated projects subtitle" /></p>
 
 <table>
 <tr>
@@ -161,7 +165,7 @@ Real-time income and expense tracking, prototyped in Figma before a line of code
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## ⚡ Hackathon Log
 
@@ -198,9 +202,11 @@ Real-time income and expense tracking, prototyped in Figma before a line of code
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## 📊 Stats & Activity
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=560&lines=the+commit+trail+never+sleeps...;little+steps+add+up+to+big+systems." alt="Animated activity subtitle" /></p>
 
 <div align="center">
 
@@ -219,7 +225,7 @@ Real-time income and expense tracking, prototyped in Figma before a line of code
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<p align="center"><img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/neon-motion-divider.svg" width="100%" alt="Animated neon divider" /></p>
 
 ## 🌙 Off the Clock
 
