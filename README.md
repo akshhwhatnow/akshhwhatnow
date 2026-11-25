@@ -225,7 +225,7 @@
 
 <div align="center">
 
-<a href="mailto:aksharaachus317@gmail.com"><img src="https://img.shields.io/badge/COME_SAY_HI-aksharaachus317%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:aksharaachus317@gmail.com?subject=Hello%20Akshara%21%20Let%27s%20connect&body=Hey%20Akshara%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.%0A%0A"><img src="https://img.shields.io/badge/COME_SAY_HI-aksharaachus317%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="https://github.com/akshhwhatnow"><img src="https://img.shields.io/badge/LOITER_ON-GITHUB-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
