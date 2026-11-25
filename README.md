@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-inspired-banner-v2.svg" width="100%" alt="Akshara — animated neon developer portfolio" />
+  <img src="https://raw.githubusercontent.com/akshhwhatnow/akshhwhatnow/main/assets/portfolio-reference-banner.svg" width="100%" alt="Akshara — animated neon developer portfolio" />
 </p>
 
 <div align="center">
