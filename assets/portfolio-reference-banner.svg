@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Akshara S — portfolio-inspired animated profile banner</title>
+<desc id="desc">Transparent portfolio-style hero with warm gradient name typography, a floating animated robot sidekick, and orbiting technology labels.</desc>
+<defs>
+ <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e8742c"/><stop offset=".55" stop-color="#f0b18f"/><stop offset="1" stop-color="#f1d9ce"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5b7cfa" stop-opacity="0"/><stop offset=".5" stop-color="#e8742c"/><stop offset="1" stop-color="#5b7cfa" stop-opacity="0"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<!-- subtle ambient background glow, no frame or panel -->
+<ellipse cx="910" cy="220" rx="290" ry="190" fill="#5b7cfa" opacity=".10" filter="url(#shadow)"/>
+<ellipse cx="1010" cy="280" rx="180" ry="120" fill="#e8742c" opacity=".07" filter="url(#shadow)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="76" y="78" font-size="18" fill="#899598" font-weight="600" letter-spacing=".5">STUDENT DEVELOPER</text>
+ <text x="72" y="178" font-size="74" fill="#e9eeed" font-weight="800" letter-spacing="-3">Hi, I'm</text>
+ <text x="70" y="280" font-size="104" fill="url(#nm)" font-weight="900" letter-spacing="-4">Akshara S</text>
+ <path d="M78 302 H610" stroke="url(#line)" stroke-width="3" stroke-linecap="round">
+  <animate attributeName="d" values="M78 302 H470;M78 302 H610;M78 302 H470" dur="6s" repeatCount="indefinite"/>
+ </path>
+ <text x="78" y="348" font-size="19" fill="#aab5b5" font-weight="700" letter-spacing=".65">FULL-STACK DEVELOPER  /  CYBERSECURITY  /  AI ENGINEER</text>
+ <text x="78" y="386" font-size="18" fill="#899598" font-style="italic">quietly building things. occasionally breaking them first.</text>
+</g>
+<!-- robot based on the actual portfolio illustration -->
+<g transform="translate(820 52) scale(1.05)">
+ <ellipse cx="130" cy="304" rx="60" ry="8" fill="#000" opacity=".22" filter="url(#shadow)">
+  <animate attributeName="rx" values="60;43;60" dur="3.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".22;.12;.22" dur="3.2s" repeatCount="indefinite"/>
+ </ellipse>
+ <g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -13;0 0" dur="3.2s" repeatCount="indefinite"/>
+  <line x1="130" y1="52" x2="130" y2="26" stroke="#8794a3" stroke-width="4"/>
+  <circle cx="130" cy="20" r="9" fill="#e8742c"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <rect x="48" y="92" width="14" height="38" rx="7" fill="#5b7cfa"/>
+  <rect x="198" y="92" width="14" height="38" rx="7" fill="#5b7cfa"/>
+  <rect x="60" y="50" width="140" height="112" rx="36" fill="#dfe6ee"/>
+  <rect x="78" y="70" width="104" height="64" rx="24" fill="#0f1a22"/>
+  <g>
+   <circle cx="108" cy="98" r="10" fill="#6ff3ff"><animate attributeName="ry" values="10;1;10" keyTimes="0;.48;.52" dur="4.5s" repeatCount="indefinite"/></circle>
+   <circle cx="152" cy="98" r="10" fill="#6ff3ff"><animate attributeName="ry" values="10;1;10" keyTimes="0;.48;.52" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M112 120 Q130 132 148 120" stroke="#6ff3ff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <rect x="115" y="160" width="30" height="14" fill="#8794a3"/>
+  <rect x="70" y="172" width="120" height="96" rx="32" fill="#dfe6ee"/>
+  <rect x="92" y="192" width="76" height="48" rx="14" fill="#0f1a22"/>
+  <text x="130" y="224" text-anchor="middle" font-size="24" font-weight="800" fill="#6ff3ff" font-family="Arial, Helvetica, sans-serif">AS</text>
+  <g fill="#e8742c">
+   <rect x="100" y="248" width="8" height="14" rx="2"><animate attributeName="height" values="5;14;5" dur=".9s" repeatCount="indefinite"/></rect>
+   <rect x="116" y="248" width="8" height="14" rx="2"><animate attributeName="height" values="14;5;14" dur=".9s" repeatCount="indefinite"/></rect>
+   <rect x="132" y="248" width="8" height="14" rx="2"><animate attributeName="height" values="7;14;7" dur=".9s" repeatCount="indefinite"/></rect>
+   <rect x="148" y="248" width="8" height="14" rx="2"><animate attributeName="height" values="14;6;14" dur=".9s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="40" y="186" width="22" height="62" rx="11" fill="#5b7cfa"/>
+  <g transform="rotate(-8 201 192)">
+   <animateTransform attributeName="transform" type="rotate" values="-8 201 192;30 201 192;-8 201 192" dur="1.4s" repeatCount="indefinite"/>
+   <rect x="190" y="182" width="22" height="62" rx="11" fill="#5b7cfa"/>
+   <circle cx="201" cy="248" r="13" fill="#dfe6ee"/>
+  </g>
+  <path d="M112 268 Q130 304 148 268Z" fill="#e8742c"><animate attributeName="d" values="M112 268 Q130 304 148 268Z;M112 268 Q130 314 148 268Z;M112 268 Q130 304 148 268Z" dur=".25s" repeatCount="indefinite"/></path>
+ </g>
+</g>
+<!-- orbiting tech labels, no toggle cord -->
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+ <g><rect x="-34" y="-17" width="68" height="34" rx="17" fill="#252e31" stroke="#536267"/><text y="5" fill="#e6eceb">JAVA</text><animateMotion dur="14s" repeatCount="indefinite" path="M1000 66 C1140 80 1160 180 1090 285 C1020 375 880 365 850 260 C815 155 885 65 1000 66"/></g>
+ <g><rect x="-34" y="-17" width="68" height="34" rx="17" fill="#252e31" stroke="#536267"/><text y="5" fill="#e6eceb">AWS</text><animateMotion dur="14s" begin="-3.5s" repeatCount="indefinite" path="M1000 66 C1140 80 1160 180 1090 285 C1020 375 880 365 850 260 C815 155 885 65 1000 66"/></g>
+ <g><rect x="-34" y="-17" width="68" height="34" rx="17" fill="#252e31" stroke="#536267"/><text y="5" fill="#e6eceb">SQL</text><animateMotion dur="14s" begin="-7s" repeatCount="indefinite" path="M1000 66 C1140 80 1160 180 1090 285 C1020 375 880 365 850 260 C815 155 885 65 1000 66"/></g>
+ <g><rect x="-34" y="-17" width="68" height="34" rx="17" fill="#252e31" stroke="#536267"/><text y="5" fill="#e6eceb">AI / ML</text><animateMotion dur="14s" begin="-10.5s" repeatCount="indefinite" path="M1000 66 C1140 80 1160 180 1090 285 C1020 375 880 365 850 260 C815 155 885 65 1000 66"/></g>
+</g>
+</svg>
